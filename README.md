@@ -36,19 +36,22 @@ Built using Streamlit for instant predictions.
 
 ## 📂 Project Structure
 
+```
 sentiment_analysis_app/
 │
-├── app_streamlit.py          # Streamlit frontend
-├── app.py                    # Local testing script (optional)
-├── sentiment_lr_model.pkl    # Logistic Regression model
-├── sentiment_nb_model.pkl    # Naive Bayes model
-├── tfidf_vectorizer.pkl      # TF-IDF Vectorizer
-├── requirements.txt          # Dependencies
+├── app_streamlit.py # Streamlit frontend
+├── app.py # Local testing script (optional)
+├── sentiment_lr_model.pkl # Logistic Regression model
+├── sentiment_nb_model.pkl # Naive Bayes model
+├── tfidf_vectorizer.pkl # TF-IDF Vectorizer
+├── requirements.txt # Dependencies
 ├── assets/
-│   ├── ss1.png               # Screenshot 1
-│   ├── ss2.png               # Screenshot 2
-│   └── ss3.png               # Screenshot 3
-└── README.md                 # Project documentation
+│ ├── ss1.png # Screenshot 1
+│ ├── ss2.png # Screenshot 2
+│ └── ss3.png # Screenshot 3
+└── README.md # Project documentation
+
+```
 
 ---
 
