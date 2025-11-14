@@ -34,7 +34,7 @@ Both models are trained on TF-IDF vectors.
 ### ✔️ **Fully Interactive Web Interface**
 Built using Streamlit for instant predictions.
 
-
+## 📂 Project Structure
 
 sentiment_analysis_app/
 │
@@ -49,3 +49,27 @@ sentiment_analysis_app/
 │   ├── ss2.png               # Screenshot 2
 │   └── ss3.png               # Screenshot 3
 └── README.md                 # Project documentation
+
+---
+
+## 📸 App Screenshots
+
+### 🖼️ Screenshot 1
+![Screenshot 1](assets/ss1.png)
+
+### 🖼️ Screenshot 2
+![Screenshot 2](assets/ss2.png)
+
+### 🖼️ Screenshot 3
+![Screenshot 3](assets/ss3.png)
+
+---
+
+## 🚀 Run the App Locally
+
+---
+
+## 🙌 Author  
+Developed by **Aniqua Nawar** as part of a learning project on **Natural Language Processing (NLP)** and **Streamlit**.
+
+
